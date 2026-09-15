@@ -11,9 +11,9 @@
 
 <!-- TODAY_BEGIN -->
 
-**2026-09-14** · 待办/记录自动生成于本地工作台
+**2026-09-15** · 待办/记录自动生成于本地工作台
 
-[查看今日完整记录 →](https://github.com/ling-ou-pq/daily-log/blob/main/2026/09/2026-09-14.md)
+[查看今日完整记录 →](https://github.com/ling-ou-pq/daily-log/blob/main/2026/09/2026-09-15.md)
 
 > 待办: - [ ] 示例：完成课程论文初稿
 
