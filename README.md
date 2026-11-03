@@ -1,49 +1,50 @@
-# Hi there 👋 I'm ling-ou-pq
+<h1 align="center">Hi there 👋 I'm <b>ling-ou-pq</b></h1>
 
-**电子信息 / 人工智能方向研究生** · 每天在这台 Windows 工作台上用 AI 工具链干活（Hermes · Claude Code · Codex · PI），并如实记录每一天。
+<p align="center">
+  <b>电子信息 · 计算机视觉方向研究生</b><br>
+  白天教《图像信号处理》，晚上把 AI Agent 用成生产力。<br>
+  在一台 Windows 工作台上，让 <b>Claude Code · Codex · Hermes</b> 各司其职。
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ling-ou-pq-4D6BFE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ling-ou-pq)
-[![Daily Log](https://img.shields.io/badge/📔-每日记录-22c55e?style=for-the-badge)](https://github.com/ling-ou-pq/daily-log)
-
----
-
-## 📅 今日（自动更新，无需手动维护）
-
-<!-- TODAY_BEGIN -->
-
-**2026-09-15** · 待办/记录自动生成于本地工作台
-
-[查看今日完整记录 →](https://github.com/ling-ou-pq/daily-log/blob/main/2026/09/2026-09-15.md)
-
-> 待办: - [ ] 示例：完成课程论文初稿
-
-> 上传: - （无）
-
-> Hermes: （无）
-
-<!-- TODAY_END -->
-
-> 每日记录由本地自动化管线生成并自动提交：今日待办、完成事项、上传清单、Hermes 会话摘要、本机活动快照。
+<p align="center">
+  <a href="https://github.com/ling-ou-pq/daily-log"><img src="https://img.shields.io/badge/每日记录-daily--log-22c55e?style=for-the-badge&logo=markdown&logoColor=white" alt="daily-log"></a>&nbsp;
+  <a href="https://github.com/ling-ou-pq/myblog"><img src="https://img.shields.io/badge/博客-myblog-4D6BFE?style=for-the-badge&logo=github&logoColor=white" alt="myblog"></a>
+</p>
 
 ---
 
-## 🧰 我的工作台
+## 🔭 现在在做什么
 
-| 工具 | 用途 |
-|---|---|
-| Hermes Agent | 主力 agent（本对话就在 Hermes 里）|
-| Claude Code / Codex | 编程委派 |
-| PI / PI-Desktop | 通用任务 agent |
-| cc-switch | 中转站统一切换 |
+- 🔬 **精读 CV 经典论文** — AlexNet → DBN → ResNet → Transformer，每篇产出中文翻译 + 大白话笔记
+- 🏆 **备赛华为 ICT 大赛** — 昇腾 AI 算子开发赛道，工程实战 + 昇腾生态练兵
+- 📖 **教《图像信号处理》** — 课件写到数学形态学了：PPT + 演讲稿 + MATLAB 示例 + HTML 交互可视化
+- 🤖 **打磨个人 AI 工作台** — 每日记录自动生成、多仓库多平台推送、定时任务统一调度，全自动无人值守
 
-## 📊 数据
+## 🧰 我的工具箱
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ling-ou-pq&show_icons=true&count_private=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Agent](https://img.shields.io/badge/LLM_Agent-8B5CF6?style=flat-square&logo=ai&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-![GitHub streak](https://streak-stats.demolab.com/?user=ling-ou-pq&theme=tokyonight)
+## 📊 数据说话
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ling-ou-pq&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ling-ou-pq&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=ling-ou-pq&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling-ou-pq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="150">
+</p>
+
+## 📔 如实记录每一天
+
+> [daily-log](https://github.com/ling-ou-pq/daily-log) 由本地自动化管线每日自动提交：待办、完成事项、工作台快照、多平台推送 —— 全程无人值守。
 
 ---
 
-*本仓库由本地每日任务自动维护 —— 记录是真实的，自动化是认真的。*
+<p align="center"><i>"把重复的事交给机器，把脑子留给值得的事。"</i></p>
