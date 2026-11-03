@@ -12,20 +12,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch stats cards (best effort)
+      - uses: actions/checkout@v4
+
+      - name: Generate stats & languages cards (self-drawn, no vercel)
         run: |
-          fetch() {
-            for i in 1 2 3; do
-              curl -fsSL "$1" -o "$2" && [ -s "$2" ] && grep -q "<svg" "$2" && return 0
-              sleep 5
-            done
-            rm -f "$2"
-            echo "::warning::failed to fetch $2 (skipped)"
-          }
           mkdir -p dist
-          fetch "https://github-readme-stats.vercel.app/api?username=ling-ou-pq&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" dist/stats.svg
-          fetch "https://streak-stats.demolab.com/?user=ling-ou-pq&theme=tokyonight&hide_border=true" dist/streak.svg
-          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=ling-ou-pq&layout=compact&theme=tokyonight&hide_border=true" dist/langs.svg
+          TOKEN=${{ secrets.GITHUB_TOKEN }} python3 scripts/make_stats.py dist
+
+      - name: Fetch streak card (best effort)
+        run: |
+          for i in 1 2 3; do
+            curl -fsSL "https://streak-stats.demolab.com/?user=ling-ou-pq&theme=tokyonight&hide_border=true" -o dist/streak.svg && [ -s dist/streak.svg ] && break
+            sleep 5
+          done
+          [ -s dist/streak.svg ] || echo "::warning::streak card unavailable"
 
       - uses: Platane/snk/svg-only@v3
         with:
