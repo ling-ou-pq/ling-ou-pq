@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=180&section=header&text=ling-ou-pq&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=CV%20Grad%20Student%20%C2%B7%20AI%20Workflow%20Builder&descSize=16&descAlignY=70" width="100%" />
+<img src="https://raw.githubusercontent.com/ling-ou-pq/ling-ou-pq/main/assets/wave.svg" width="100%" />
 
 <p align="center">
   <a href="https://github.com/ling-ou-pq">
@@ -34,11 +34,11 @@
 ## 📊 数据说话
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ling-ou-pq&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=ling-ou-pq&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://raw.githubusercontent.com/ling-ou-pq/ling-ou-pq/output/stats.svg" alt="GitHub stats" height="165">
+  <img src="https://raw.githubusercontent.com/ling-ou-pq/ling-ou-pq/output/streak.svg" alt="GitHub streak" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling-ou-pq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="150">
+  <img src="https://raw.githubusercontent.com/ling-ou-pq/ling-ou-pq/output/langs.svg" alt="Top languages" height="150">
 </p>
 
 ## 🐍 贪吃蛇 · 把贡献格一颗颗吃掉
@@ -55,4 +55,4 @@
 
 > [daily-log](https://github.com/ling-ou-pq/daily-log) 由本地自动化管线每日自动提交：待办、完成事项、工作台快照、多平台推送 —— 全程无人值守。
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:58A6FF&height=110&section=footer" width="100%" />
+---
