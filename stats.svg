@@ -1,0 +1,14 @@
+<svg width="400" height="210" viewBox="0 0 400 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats">
+<rect width="400" height="210" rx="8" fill="#1a1b27" stroke="rgba(255,255,255,0.08)"/>
+<text x="25" y="38" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#ffffff">ling-ou-pq's GitHub Stats</text>
+<text x="25" y="72" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a9b1d6">⭐ Total Stars</text>
+<text x="375" y="72" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#7aa2f7">0</text>
+<text x="25" y="100" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a9b1d6">📆 Total Commits</text>
+<text x="375" y="100" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#7aa2f7">703</text>
+<text x="25" y="128" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a9b1d6">📦 Repositories</text>
+<text x="375" y="128" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#7aa2f7">6</text>
+<text x="25" y="156" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a9b1d6">👥 Followers</text>
+<text x="375" y="156" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#7aa2f7">0</text>
+<text x="25" y="184" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#a9b1d6">🔯 Total Forks</text>
+<text x="375" y="184" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#7aa2f7">0</text>
+</svg>
